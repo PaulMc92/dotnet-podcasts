@@ -12,7 +12,7 @@
 	</PropertyGroup>
 
 	<PropertyGroup>
-		<ContainerImageName>podcastapi</ContainerImageName>
+		<ContainerRepository>podcastapi</ContainerRepository>
 	</PropertyGroup>
 
 	<ItemGroup>
